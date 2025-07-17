@@ -33,6 +33,3 @@ This project demonstrates how secure file storage can be implemented by combinin
 
 ---
 
-## 📁 File Structure
-
-
